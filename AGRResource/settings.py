@@ -77,7 +77,7 @@ WSGI_APPLICATION = 'AGRResource.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql',
-        'NAME': 'AGRResource',
+        'NAME': 'agrresource',
         'USER': 'moringa',
     'PASSWORD':'0723120546',
     }
